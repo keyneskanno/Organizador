@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646139418486",
+    "project_id": "organizador-de549",
+    "storage_bucket": "organizador-de549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646139418486:android:e5c77b07537cd33e6ecc57",
+        "android_client_info": {
+          "package_name": "com.keynes.organizador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646139418486-52rtvpf1u2f6u3dcb5hssovnsu40afkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7maJM-zE0Mf_qYnuO0rP7FR09OlOD5UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646139418486-52rtvpf1u2f6u3dcb5hssovnsu40afkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
