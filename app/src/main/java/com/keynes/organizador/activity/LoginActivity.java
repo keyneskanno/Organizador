@@ -107,7 +107,7 @@ public class LoginActivity extends AppCompatActivity {
     }
 
     public void abritTelaPrincipal(){
-        startActivity(new Intent(this, PrincipalActivity.class));
+        startActivity(new Intent(this, PrincipalActivity.class)); //abre a tela
         finish();
     }
 }
